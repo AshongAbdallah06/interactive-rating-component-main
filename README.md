@@ -23,8 +23,8 @@
 
 
 ### Links
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://github.com/AshongAbdallah06/interactive-rating-component-main]
+- Live Site URL: [https://main-interactive-rating-component.netlify.app/]
 
 ## My process
 
