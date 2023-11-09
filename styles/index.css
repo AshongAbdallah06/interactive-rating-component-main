@@ -98,3 +98,10 @@ div .is-selected {
 .attribution a {
 color: hsl(228, 45%, 44%); 
 }
+
+
+@media (max-width: 575) {
+    .card {
+        padding: 20px;
+    }
+}
