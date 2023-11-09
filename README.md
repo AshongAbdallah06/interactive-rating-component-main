@@ -23,7 +23,7 @@
 
 
 ### Links
-- Solution URL: [https://github.com/AshongAbdallah06/interactive-rating-component-main]
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-LdbSnr-1t8]
 - Live Site URL: [https://main-interactive-rating-component.netlify.app/]
 
 ## My process
