@@ -5,6 +5,12 @@ body {
     color: white;
     display: flex;
     flex-direction: column;
+    justify-content: center;
+    position: absolute;
+    top: 100px;
+    bottom: 100px;
+    right: 0;
+    left: 0;
     align-items: center;
     background-color: black;
 }
@@ -80,4 +86,15 @@ div .is-selected {
     background-color: hsl(217, 12%, 63%);
     color: white;
     font-weight: 700;
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center; 
+    position: absolute; 
+    bottom: -100px;
+}
+
+.attribution a {
+color: hsl(228, 45%, 44%); 
 }
