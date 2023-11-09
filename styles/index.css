@@ -100,7 +100,7 @@ color: hsl(228, 45%, 44%);
 }
 
 
-@media (max-width: 575) {
+@media (max-width: 575px) {
     .card {
         padding: 20px;
     }
