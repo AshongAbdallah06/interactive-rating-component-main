@@ -27,3 +27,9 @@
     width: 350px;
     margin-bottom: 0;
 }
+
+@media (max-width: 575px) {
+    .thank-you-card {
+        padding: 20px;
+    }
+}
